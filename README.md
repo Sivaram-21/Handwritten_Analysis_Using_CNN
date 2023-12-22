@@ -4,7 +4,7 @@
 </div>
 
 # <div align="center">Parkinson's disease prediction using CNN</div>
-<div align="center"><img src="https://github.com/Pradnya1208/Detecting-Parkinsons-Disease/blob/main/output/intro.gif?raw=true" width="70%"></div>
+<div align="center"><img src="https://github.com/Sivaram-21/Detecting-Parkinsons-Disease/blob/main/output/intro.gif?raw=true" width="70%"></div>
 
 
 
@@ -104,9 +104,7 @@ history = classifier.fit(
 ## References:
 [XGBoost](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/) <br>
 [Callbacks](https://keras.io/api/callbacks/)
-### Feedback
 
-If you have any feedback, please reach out at pradnyapatil671@gmail.com
 
 
 ### 🚀 About Me
